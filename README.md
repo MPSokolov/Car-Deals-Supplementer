@@ -1,2 +1,2 @@
 # Car-Deals-Supplementer
-Website for adding additional (or missing) info for car deals in different shops
+Website for adding additional (or missing) info for car deals from different online car shops
